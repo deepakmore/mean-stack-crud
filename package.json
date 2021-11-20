@@ -4,6 +4,7 @@
   "description": "Test CRUD operation using MEAN stack",
   "main": "index.js",
   "scripts": {
+    "serve-run": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
