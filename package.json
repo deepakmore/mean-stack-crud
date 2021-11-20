@@ -1,0 +1,25 @@
+{
+  "name": "com.app",
+  "version": "1.0.0",
+  "description": "Test CRUD operation using MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakmore/mean-stack-crud.git"
+  },
+  "keywords": [
+    "Mongodb",
+    "Angular",
+    "Expressjs",
+    "Nodejs"
+  ],
+  "author": "deepakmore@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakmore/mean-stack-crud/issues"
+  },
+  "homepage": "https://github.com/deepakmore/mean-stack-crud#readme"
+}
